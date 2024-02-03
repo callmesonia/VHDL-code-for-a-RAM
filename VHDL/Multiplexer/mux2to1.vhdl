@@ -4,6 +4,8 @@
 --        2/2/2024        --
 ----------------------------
 
+--1bit multiplexer 2 to 1 with Selected Signal Assignment
+
 library library IEEE;
 use IEEE.std_logic_1164.all;
 
