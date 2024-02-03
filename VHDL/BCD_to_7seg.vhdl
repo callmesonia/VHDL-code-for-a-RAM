@@ -4,7 +4,7 @@
 --        2/2/2024        --
 ----------------------------
 
--- BCD adder to 7segment convertor with Selected Signal Assignment
+-- BCD to 7 segment convertor with Selected Signal Assignment
 
 
 library library IEEE;
